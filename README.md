@@ -1,6 +1,7 @@
 # Belajar Git dulu
 
-frist commit 
+frist jalan 
 
 by : udil serharum
+SELAMAT DATANG
 
